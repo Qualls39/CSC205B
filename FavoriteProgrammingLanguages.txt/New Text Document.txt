@@ -1,4 +1,7 @@
 java
-python
+rust
 javascript
 C++
+C
+Ruby
+Pascal
