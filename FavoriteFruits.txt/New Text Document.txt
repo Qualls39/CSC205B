@@ -2,3 +2,5 @@ strawberry
 bananna
 blueberries
 pineapple
+guava
+orange
